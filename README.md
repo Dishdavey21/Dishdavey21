@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Disha
 
-<h3 align="center">🚀 AI | ML | Full-Stack Enthusiast | VIT Vellore</h3>
+<h3 align="center">🚀 AI | ML | Data Analyst Enthusiast | VIT Vellore</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Developer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Always+Learning+Something+New+✨" />
