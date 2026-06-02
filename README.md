@@ -1,7 +1,10 @@
 # Hey there 👋, I'm Disha
 
-<h3 align="center">🚀 AI • ML • Data Analytics Enthusiast</h3>
-<h4 align="center">VIT Vellore | Tech Explorer | Problem Solver</h4>
+<h3 align="center">🚀 AI | ML | Full-Stack Enthusiast | VIT Vellore</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Machine+Learning+Explorer;Full-Stack+Developer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Always+Learning+Something+New+✨" />
+</p>
 
 ---
 
@@ -9,13 +12,13 @@
 
 🎓 Final-year **Information Technology student** at **VIT, Vellore**  
 
-💡 Passionate about **Artificial Intelligence, Machine Learning & Data Analytics**  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**  
 
-🧠 Exploring **Deep Learning, NLP, Generative AI & MLOps**  
+🧠 Exploring **Deep Learning, NLP, Generative AI, and MLOps**  
 
-🌍 Building projects that solve **real-world problems**  
+🌍 Building projects that solve **real-world problems through technology**  
 
-⚡ Always curious and learning new technologies  
+⚡ Curious learner who enjoys experimenting with **new tools, frameworks, and ideas**  
 
 ---
 
@@ -36,10 +39,19 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### 📊 Data Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -50,36 +62,41 @@
 ## 🔥 Current Projects
 
 🚀 **AI Resume Screening API**  
-🛡 **Secure Vision**  
-⚙️ **Exploring MLOps & Model Deployment**  
+FastAPI + SpaCy powered system for intelligent resume screening and ranking  
+
+🛡️ **Secure Vision**  
+AI-based anti-spoofing and security-focused vision system  
+
+⚙️ **MLOps Journey**  
+Exploring model deployment, pipelines, and scalable AI systems  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishdavey21&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dishdavey21&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishdavey21&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishdavey21&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Dishdavey21&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 [dishdavey2111@gmail.com](mailto:dishdavey2111@gmail.com)  
+📧 **Email:** [dishdavey2111@gmail.com](mailto:dishdavey2111@gmail.com)  
 
-💻 [GitHub](https://github.com/Dishdavey21)  
+💻 **GitHub:** [github.com/Dishdavey21](https://github.com/Dishdavey21)  
 
-🔗 [LinkedIn](https://linkedin.com/in/disha-davey)  
+🔗 **LinkedIn:** [linkedin.com/in/disha-davey](https://linkedin.com/in/disha-davey)  
 
 ---
 
 <p align="center">
-✨ <i>Building intelligent solutions, learning continuously, and growing one project at a time.</i>
+✨ <i>Building intelligent solutions, learning continuously, and growing one project at a time.</i> ✨
 </p>
 
 ⭐ Thanks for visiting my profile ⭐
-`
